@@ -15,10 +15,10 @@ export const FeedbackProvider = ({ children }) => {
     {
       id: 2,
       text: "from context 2",
-      rating: 9,
+      rating: 7,
     },
     {
-      id: 2,
+      id: 3,
       text: "from context 3",
       rating: 8,
     },
